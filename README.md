@@ -1,16 +1,21 @@
 ### Hi there 👋
+I'm Volodymyr, a 30 years old full-stack developer from Ukraine 🇺🇦
 
-<!--
-**razumnyak/razumnyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 💻 JavaScript, PHP
+- ⚙️ Vue, React, Laravel, Symfony, Yii 
+- 👁️ SASS/SCSS, LESS, CSS, HTML
+- 💽 MySQL, SQL, Mongo, ElasticSearch
+- ⚙️ Docker
 
-Here are some ideas to get you started:
+### My values
+...
+### Goals for 2021
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mentor/Teacher
+- atomspace.od.ua
+- it2school.od.ua
+
+### Working on
+- ambrozii.net / ragweed.online
