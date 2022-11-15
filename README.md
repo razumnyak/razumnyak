@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Volodymyr, a 31 years old full-stack developer from Ukraine 🇺🇦
+I'm Volodymyr, a 32 years old full-stack developer from Ukraine 🇺🇦 #StandWithUkraine
 
 ## Skills
 ![PHP](https://img.shields.io/badge/php%20-%23232531.svg?&style=for-the-badge&logo=PHP&logoColor=8993be) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,7 +8,7 @@ I'm Volodymyr, a 31 years old full-stack developer from Ukraine 🇺🇦
 
 ![SASS](https://img.shields.io/badge/sass%20-333435.svg?&style=for-the-badge&logo=sass&logoColor=cc6699) ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker%20-384d54.svg?&style=for-the-badge&logo=Docker&logoColor=0db7ed) ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white) ![OpenLiteSpeed](https://img.shields.io/badge/openlitespeed-1c2c3c.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEUAAAAAqJ09uK8AqJ0AqJ0Kq6AAqJ0BqJ0AqJ0AqJ0AqJ0AqJ0AqJ225eLh9PP///+z5OH/////0AAAqJ0asKbG0FeZ29cmtKlbx7/n9vXC6ufU8O5tzcZVvpmB1M7y1Cr3/Pz90xPh1EI3uKWO2NNEva/V00yy5OGAxoaTyHZqwY5Mwrqpy2iQzpq20XKvz3XSHleOAAAAEXRSTlMAPwW1E/1u6daCvR6zqeNSzZZRFhoAAAGYSURBVHjalZPZeoIwEIVZCglqlzAhAVkUERHR9v3frkNkCNirnju+n+TMnMw4Vp4b+Zwxvotcz/mrt4jBLBa9vfJwxDqtlKpSDZB+fHohD+3xDUBQ5GJSnoujYuWDE99ygCETC3W6vCSBS+eRqxVumiRO5BfVivd3C7xvm6RGvhfvU32r8/mg73VseBeExoDBMOMslT1iw0UKbOw2giAjXMj+EBMXWQAR5segeOJjJa+IiaMKYJ7jAuQGn+XNYMtFDuCigx6xkrdTbPkkjR4+pOiGucSkU9tSpin4DodKCFXWsVX9rYtn3RVwh4EyN6CB1eEqz0eBB4GZH1Bn6oB8Sp2ZH0aLKQP9s/IplbEwRVLIra30gjeYIk2bk/YymQ2kOj7bpKAsR3zDEikoitpy7KBCTFHTYxE/9HLKgB7LPDfxupepHb0Bn5sGxvD6rodczFIA01j7AMjrpGn3y8EE2MxDG+CMNk1ngD3PaXvcILmUcF7ibEC+dSbxRxmsF6fA743dPtwx72X1gIX/Xd5RbrQb199frf8vtXxAFm1Zo/4AAAAASUVORK5CYII=) 
+![GOOGLE Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20-384d54.svg?&style=for-the-badge&logo=google%20cloud&logoColor=0db7ed) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean%20-384d54.svg?&style=for-the-badge&logo=DigitalOcean&logoColor=0db7ed) ![Docker](https://img.shields.io/badge/Docker%20-384d54.svg?&style=for-the-badge&logo=Docker&logoColor=0db7ed) ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white) ![OpenLiteSpeed](https://img.shields.io/badge/openlitespeed-1c2c3c.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEUAAAAAqJ09uK8AqJ0AqJ0Kq6AAqJ0BqJ0AqJ0AqJ0AqJ0AqJ0AqJ225eLh9PP///+z5OH/////0AAAqJ0asKbG0FeZ29cmtKlbx7/n9vXC6ufU8O5tzcZVvpmB1M7y1Cr3/Pz90xPh1EI3uKWO2NNEva/V00yy5OGAxoaTyHZqwY5Mwrqpy2iQzpq20XKvz3XSHleOAAAAEXRSTlMAPwW1E/1u6daCvR6zqeNSzZZRFhoAAAGYSURBVHjalZPZeoIwEIVZCglqlzAhAVkUERHR9v3frkNkCNirnju+n+TMnMw4Vp4b+Zwxvotcz/mrt4jBLBa9vfJwxDqtlKpSDZB+fHohD+3xDUBQ5GJSnoujYuWDE99ygCETC3W6vCSBS+eRqxVumiRO5BfVivd3C7xvm6RGvhfvU32r8/mg73VseBeExoDBMOMslT1iw0UKbOw2giAjXMj+EBMXWQAR5segeOJjJa+IiaMKYJ7jAuQGn+XNYMtFDuCigx6xkrdTbPkkjR4+pOiGucSkU9tSpin4DodKCFXWsVX9rYtn3RVwh4EyN6CB1eEqz0eBB4GZH1Bn6oB8Sp2ZH0aLKQP9s/IplbEwRVLIra30gjeYIk2bk/YymQ2kOj7bpKAsR3zDEikoitpy7KBCTFHTYxE/9HLKgB7LPDfxupepHb0Bn5sGxvD6rodczFIA01j7AMjrpGn3y8EE2MxDG+CMNk1ngD3PaXvcILmUcF7ibEC+dSbxRxmsF6fA743dPtwx72X1gIX/Xd5RbrQb199frf8vtXxAFm1Zo/4AAAAASUVORK5CYII=) 
 
 ![MySQL](https://img.shields.io/badge/MySQL-1c2c3c.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c2c3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1c2c3c.svg?&style=for-the-badge&logo=mongodb) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-1c2c3c.svg?&style=for-the-badge&logo=ElasticSearch) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1c2c3c.svg?&style=for-the-badge&logo=RabbitMQ)![ClickHouse](https://img.shields.io/badge/ClickHouse-1c2c3c.svg?&style=for-the-badge&logo=ClickHouse)
 
@@ -17,7 +17,7 @@ I'm Volodymyr, a 31 years old full-stack developer from Ukraine 🇺🇦
 ### My pet project
 - Ambrozii.NET ([rus](https://ambrozii.net)) ([eng](https://ragweed.online) version in development)
 
-### Goals for 2023 (partially moved from 2022 | #StandWithUkraine)
+### Goals for 2023 (partially moved from 2022)
 - [ ] Start ny new pet project [tool for psychologists: metaphor.pics](https://metaphor.pics) 
 - [ ] Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training) 
 - [ ] Work: Develop new site for it2school
