@@ -10,20 +10,26 @@ I'm Volodymyr, a 31 years old full-stack developer from Ukraine 🇺🇦
 
 ![Docker](https://img.shields.io/badge/Docker%20-384d54.svg?&style=for-the-badge&logo=Docker&logoColor=0db7ed) ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white) ![OpenLiteSpeed](https://img.shields.io/badge/openlitespeed-1c2c3c.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEUAAAAAqJ09uK8AqJ0AqJ0Kq6AAqJ0BqJ0AqJ0AqJ0AqJ0AqJ0AqJ225eLh9PP///+z5OH/////0AAAqJ0asKbG0FeZ29cmtKlbx7/n9vXC6ufU8O5tzcZVvpmB1M7y1Cr3/Pz90xPh1EI3uKWO2NNEva/V00yy5OGAxoaTyHZqwY5Mwrqpy2iQzpq20XKvz3XSHleOAAAAEXRSTlMAPwW1E/1u6daCvR6zqeNSzZZRFhoAAAGYSURBVHjalZPZeoIwEIVZCglqlzAhAVkUERHR9v3frkNkCNirnju+n+TMnMw4Vp4b+Zwxvotcz/mrt4jBLBa9vfJwxDqtlKpSDZB+fHohD+3xDUBQ5GJSnoujYuWDE99ygCETC3W6vCSBS+eRqxVumiRO5BfVivd3C7xvm6RGvhfvU32r8/mg73VseBeExoDBMOMslT1iw0UKbOw2giAjXMj+EBMXWQAR5segeOJjJa+IiaMKYJ7jAuQGn+XNYMtFDuCigx6xkrdTbPkkjR4+pOiGucSkU9tSpin4DodKCFXWsVX9rYtn3RVwh4EyN6CB1eEqz0eBB4GZH1Bn6oB8Sp2ZH0aLKQP9s/IplbEwRVLIra30gjeYIk2bk/YymQ2kOj7bpKAsR3zDEikoitpy7KBCTFHTYxE/9HLKgB7LPDfxupepHb0Bn5sGxvD6rodczFIA01j7AMjrpGn3y8EE2MxDG+CMNk1ngD3PaXvcILmUcF7ibEC+dSbxRxmsF6fA743dPtwx72X1gIX/Xd5RbrQb199frf8vtXxAFm1Zo/4AAAAASUVORK5CYII=) 
 
-![MySQL](https://img.shields.io/badge/MySQL-1c2c3c.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c2c3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1c2c3c.svg?&style=for-the-badge&logo=mongodb) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-1c2c3c.svg?&style=for-the-badge&logo=ElasticSearch) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1c2c3c.svg?&style=for-the-badge&logo=RabbitMQ)
+![MySQL](https://img.shields.io/badge/MySQL-1c2c3c.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c2c3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1c2c3c.svg?&style=for-the-badge&logo=mongodb) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-1c2c3c.svg?&style=for-the-badge&logo=ElasticSearch) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1c2c3c.svg?&style=for-the-badge&logo=RabbitMQ)![ClickHouse](https://img.shields.io/badge/ClickHouse-1c2c3c.svg?&style=for-the-badge&logo=ClickHouse)
 
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/Jira%20-%230052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white) 
 
 ### My pet project
 - Ambrozii.NET ([rus](https://ambrozii.net)) ([eng](https://ragweed.online) version in development)
 
-### Goals for 2022
-- [ ] Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training)
-- [ ] Learn&Practice: [Laravel](https://laravel.com/) a deep dive
-- [ ] Learn&Practice: [TypeScript](https://www.typescriptlang.org/)
-- [ ] Learn&Practice: [Typesence](https://typesense.org/)
+### Goals for 2023 (partially moved from 2022 | #StandWithUkraine)
+- [ ] Start ny new pet project [tool for psychologists: metaphor.pics](https://metaphor.pics) 
+- [ ] Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training) 
 - [ ] Work: Develop new site for it2school
-- [ ] Work: End of development new ragweed.online 
+- [ ] Work: End of development new ragweed.online
+
+### Goals for 2022
+- [x] Survival in Ukraine (fuc&&ng war)
+- [x] Learn&Practice: [Laravel](https://laravel.com/) a deep dive
+- [x] Learn&Practice: [Microservices](https://microservices.io/)
+- [x] Learn&Practice: [Clickhouse](https://clickhouse.com/)
+- [ ] ~~Learn&Practice: [TypeScript](https://www.typescriptlang.org/)~~
+- [ ] ~~Learn&Practice: [Typesence](https://typesense.org/)~~
 
 ### Goals for 2021
 - [x] __Soft skills__: Project manager, planning, time management and writing documentation
