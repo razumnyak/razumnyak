@@ -18,8 +18,10 @@ I'm Volodymyr, a 32 years old full-stack developer from Ukraine 🇺🇦 #StandW
 - Ambrozii.NET ([rus](https://ambrozii.net)) ([eng](https://ragweed.online) version in development)
 
 ### Goals for 2023 (partially moved from 2022)
-- [ ] Start ny new pet project [tool for psychologists: metaphor.pics](https://metaphor.pics) 
+- [ ] Learn&Practice: [GoLang](https://go.dev/)+[Course](https://www.udemy.com/course/learn-how-to-code)
 - [ ] Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training) 
+- [ ] Learn&Practice: [Apache Kafka](https://kafka.apache.org/)
+- [ ] Start ny new pet project [tool for psychologists: metaphor.pics](https://metaphor.pics) 
 - [ ] Work: Develop new site for it2school
 - [ ] Work: End of development new ragweed.online
 
