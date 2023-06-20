@@ -20,7 +20,7 @@ I'm Volodymyr, a 32 years old full-stack developer from Ukraine 🇺🇦 #StandW
 ### Goals for 2023 (partially moved from 2022)
 - [ ] Learn&Practice: [GoLang](https://go.dev/)+[Course](https://www.udemy.com/course/learn-how-to-code)
 - [ ] Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training) 
-- [ ] Learn&Practice: [Apache Kafka](https://kafka.apache.org/)
+- [x] Learn&Practice: [Apache Kafka](https://kafka.apache.org/)
 - [ ] Work: Develop new site for it2school
 - [ ] Work: End of development new ragweed.online
 
