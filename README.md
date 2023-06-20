@@ -2,7 +2,7 @@
 I'm Volodymyr, a 32 years old full-stack developer from Ukraine 🇺🇦 #StandWithUkraine
 
 ## Skills
-![PHP](https://img.shields.io/badge/php%20-%23232531.svg?&style=for-the-badge&logo=PHP&logoColor=8993be) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php%20-%23232531.svg?&style=for-the-badge&logo=PHP&logoColor=8993be) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go Lang](https://img.shields.io/badge/Go%20-222.svg?&style=for-the-badge&logo=GO)
 
 ![Laravel](https://img.shields.io/badge/Laravel%20-111.svg?&style=for-the-badge&logo=laravel&logoColor=fb503b) ![React.js](https://img.shields.io/badge/React-1c2c4c.svg?&style=for-the-badge&logo=react&logoColor=61DBFB) ![Vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![Symfony](https://img.shields.io/badge/Symfony-18171b.svg?&style=for-the-badge&logo=Symfony&logoColor=white) 
 
