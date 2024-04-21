@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Volodymyr, a 32 years old full-stack developer from Ukraine 🇺🇦 #StandWithUkraine
+I'm Volodymyr, a 33 years old Senior Software Developer from Ukraine 🇺🇦 #StandWithUkraine
 
 ## Skills
 ![PHP](https://img.shields.io/badge/php%20-%23232531.svg?&style=for-the-badge&logo=PHP&logoColor=8993be) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go Lang](https://img.shields.io/badge/Go%20-222.svg?&style=for-the-badge&logo=GO)
@@ -16,13 +16,16 @@ I'm Volodymyr, a 32 years old full-stack developer from Ukraine 🇺🇦 #StandW
 
 ### My pet project
 - Ambrozii.NET ([rus](https://ambrozii.net)) ([eng](https://ragweed.online) version in development)
-
 ### Goals for 2023 (partially moved from 2022)
-- [ ] Learn&Practice: [GoLang](https://go.dev/)+[Course](https://www.udemy.com/course/learn-how-to-code)
-- [ ] Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training) 
-- [x] Learn&Practice: [Apache Kafka](https://kafka.apache.org/)
 - [ ] Work: Develop new site for it2school
 - [ ] Work: End of development new ragweed.online
+- [ ] Learn&Practice: Generative AI, Large Language Model, self-hosted AI chat.
+- [ ] Experiment: Create a story-rpg LLM for future project [https://everchangingrealm.com/](http://everchangingrealm.com/) 
+
+### Goals for 2023 (partially moved from 2022)
+- [x] Learn&Practice: [GoLang](https://go.dev/)+[Course](https://www.udemy.com/course/learn-how-to-code)
+- [x] Learn&Practice: [Apache Kafka](https://kafka.apache.org/)
+- [ ] ~~Learn&Practice: [Google Cloud Platform](https://cloud.google.com/training)~~
 
 ### Goals for 2022
 - [x] Survival in Ukraine (fuc&&ng war)
